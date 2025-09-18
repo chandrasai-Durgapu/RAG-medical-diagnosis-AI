@@ -17,5 +17,4 @@ conda activate medical-diagnosis
 pip install -r requirements.txt
 ```
 
-etain5901_db_user
-p2OHlgd7Zb9LkhdL
+
