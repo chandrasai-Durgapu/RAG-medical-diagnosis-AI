@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-dotenv
+streamlit
+pymongo[srv]
+python-multipart
+pypdf
+langchain
+langchain-community
+langchain-core
+langchain-groq
+pinecone
+langchain-google-genai
+passlib[bcrypt]
+requests
+PyPDF2
+
+sentence-transformers #Hugging Face embeddings ...split whole document into smaller chunks and convert into vector 
